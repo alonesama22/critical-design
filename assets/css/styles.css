@@ -16,7 +16,7 @@ body {
 
 .backgroundImage {
 	background-Image: url(../img/wrench.png);
-	wdith: 300px;
+	width: 250px;
 	height: 400px;
 }
 
